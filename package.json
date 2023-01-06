@@ -1,7 +1,7 @@
 {
   "name": "default-empty-site",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,10 +11,10 @@
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
-    "prettier-plugin-tailwindcss": "^0.1.12",
+    "prettier-plugin-tailwindcss": "^0.2.1",
     "tailwindcss": "^3.1.6",
-    "vite": "^3.0.0",
-    "vite-plugin-singlefile": "^0.10.0"
+    "vite": "^4.0.4",
+    "vite-plugin-singlefile": "^0.13.2"
   },
   "dependencies": {
     "prettier": "^2.7.1"
